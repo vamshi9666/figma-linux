@@ -84,11 +84,15 @@ Or You can just download and run the AppImage.
 
 Steps to start development:
 
-1. git clone git@github.com:ChugunovRoman/figma-linux.git
-2. cd figma-linux
-3. npm i
-
-
+```
+git clone git@github.com:ChugunovRoman/figma-linux.git 
+```
+```
+cd figma-linux
+```
+```
+npm i
+```
 To start the app in dev mode:
 ```
 npm run dev
